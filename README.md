@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-**sk3letonn/sk3letonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 I’m currently working on making A Discord Bot<br>👯 I’m looking to collaborate on Cyber Security Related Content<br>🌱 I’m currently learning Cyber Security (windows/Linux/CCNA/CCNB/IP)<br>💬 Ask me about Discord servers/API<br>⚡ Fun fact - I love coding
 
